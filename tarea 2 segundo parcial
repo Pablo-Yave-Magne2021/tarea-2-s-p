@@ -1,0 +1,17 @@
+Algoritmo matriz		
+	Escribir"escriibir un numero"
+	Dimension A[5, 5]
+	Leer  num	
+	nummer = num
+	Para i = 1 hasta 5 Hacer
+		Para j = 1 Hasta  5 Hacer
+			A[i, j] = numer
+			numer = numer +num
+		FinPara
+	FinPara
+	Para  i = 1 hasta 5 Hacer
+		Para j = 1 hasta 5 Hacer
+			Escribir A[i, j]
+		FinPara
+	FinPara
+	FinAlgoritmo
